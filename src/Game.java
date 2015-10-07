@@ -65,3 +65,5 @@ public class Game
 		
 	}
 }
+
+// Please think about using vairables with proper name to hold 1/2/3 to make the code easier to ready.
